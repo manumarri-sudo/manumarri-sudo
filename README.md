@@ -6,7 +6,7 @@ I build and ship products that solve real problems. My approach combines technic
 
 ## 🚀 What I Build
 
-### [PACKD](https://github.com/manumarri-sudo/PACKD) — Expert Knowledge Distribution Platform
+### [PACKD](https://github.com/manumarri-sudo/packd-showcase) — Expert Knowledge Distribution Platform
 *Registry and toolchain for AI domain expertise*
 
 **Impact**: Enable developers to package and share domain expertise like npm packages
@@ -18,7 +18,7 @@ I build and ship products that solve real problems. My approach combines technic
 
 ---
 
-### [Capture](https://github.com/manumarri-sudo/capture) — Knowledge Management System
+### [Capture](https://github.com/manumarri-sudo/capture-showcase) — Knowledge Management System
 *Chrome extension + web dashboard for multi-project organization*
 
 **Impact**: Reduce information retrieval time from hours to seconds
@@ -31,7 +31,7 @@ I build and ship products that solve real problems. My approach combines technic
 
 ---
 
-### [Cultural Canvas](https://github.com/manumarri-sudo/cultural-canvas) — AI Content Platform
+### [Cultural Canvas](https://github.com/manumarri-sudo/cultural-canvas-showcase) — AI Content Platform
 *Culturally authentic design generation at scale*
 
 **Impact**: 10x faster design creation vs. manual methods
@@ -44,7 +44,7 @@ I build and ship products that solve real problems. My approach combines technic
 
 ---
 
-### [ChronoDebug](https://github.com/manumarri-sudo/Chronodebug) — LLM Debugging Tool
+### [ChronoDebug](https://github.com/manumarri-sudo/chronodebug-showcase) — LLM Debugging Tool
 *Developer tool for reproducing production AI issues*
 
 **Impact**: Reduce bug reproduction time from hours to <2 minutes
@@ -137,3 +137,5 @@ I build and ship products that solve real problems. My approach combines technic
 ---
 
 *I believe the best way to predict the future is to build it. These projects represent my commitment to shipping real solutions, measuring impact, and iterating based on data.*
+
+**Note**: Project repositories contain product documentation and technical overviews. Source code for proprietary projects is confidential.
