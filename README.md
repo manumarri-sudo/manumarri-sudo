@@ -20,7 +20,7 @@ I translate AI systems into operational KPIs. I ship multi-agent stacks and the 
 
 ## Other public work
 
-- [agentOS-sim](https://github.com/manumarri-sudo/agentOS-sim). Multi-agent simulation: 19 AI agents try to earn one real dollar in two weeks. Companion to the Substack article: [I Gave 18 AI Agents Two Weeks to Earn One Real Dollar](https://manumarri.substack.com/p/i-gave-18-ai-agents-two-weeks-to).
+- [agentOS-sim](https://github.com/manumarri-sudo/agentOS-sim). Multi-agent simulation: 18 AI agents try to earn one real dollar in two weeks. Companion to the Substack article: [I Gave 18 AI Agents Two Weeks to Earn One Real Dollar](https://manumarri.substack.com/p/i-gave-18-ai-agents-two-weeks-to).
 - [The Adjudication Gap](https://manumarri.substack.com/p/the-adjudication-gap). Why most AI agent stacks have telemetry and identity but not the third layer: in-the-moment judgment.
 
 ## Frameworks I write about
