@@ -1,8 +1,8 @@
 # Manu Marri
 
-AI business operations. Solo founder, [Loomiq](https://loomiq.llc). Chicago Booth MBA, ex-Accenture strategy.
+AI strategist and operator. Solo founder, [Loomiq](https://loomiq.llc). Chicago Booth MBA, ex-Accenture strategy.
 
-I translate AI systems into operational KPIs. I ship multi-agent stacks and the governance frameworks that keep them accountable to the business.
+I work with operators on where AI should sit inside the business, how to build the workflow, and how to govern it once it is live. Strategy, build, and governance designed together.
 
 ## Pinned work
 
