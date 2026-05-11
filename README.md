@@ -2,7 +2,7 @@
 
 AI strategist and operator. Solo founder, [Loomiq](https://loomiq.llc). Chicago Booth MBA, ex-Accenture strategy.
 
-I help companies figure out where AI fits in their business, build the workflows that get them there, and keep those workflows defensible once they are live. Most of my clients are small enough that they need all three in the same conversation, so that is how I work.
+I help companies figure out where AI fits in their business, build the workflows that get them there, and keep those workflows defensible once they are live. The three pieces tend to come apart when you split them between separate people, so I keep them together.
 
 ## Pinned work
 
