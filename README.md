@@ -16,12 +16,25 @@ I translate AI systems into operational KPIs. I ship multi-agent stacks and the 
 
 **[market-lens-server](https://github.com/manumarri-sudo/market-lens-server)**. Daily market briefing delivered to a Notion dashboard. Three refreshes a day during US market hours, archived in Supabase.
 
-**[chronodebug-showcase](https://github.com/manumarri-sudo/chronodebug-showcase)**. Capture production LLM requests, replay them deterministically with the same seed and parameters.
+**[chronodebug](https://github.com/manumarri-sudo/chronodebug)**. Capture production LLM requests, replay them deterministically with the same seed and parameters.
 
 ## Other public work
 
 - [agentOS-sim](https://github.com/manumarri-sudo/agentOS-sim). Multi-agent simulation: 18 AI agents try to earn one real dollar in two weeks. Companion to the Substack article: [I Gave 18 AI Agents Two Weeks to Earn One Real Dollar](https://manumarri.substack.com/p/i-gave-18-ai-agents-two-weeks-to).
 - [The Adjudication Gap](https://manumarri.substack.com/p/the-adjudication-gap). Why most AI agent stacks have telemetry and identity but not the third layer: in-the-moment judgment.
+
+## Other projects
+
+Private repositories. Code review or demo available on request.
+
+- **VARA**. Shipped Chrome extension.
+- **AgentOS**. Multi-agent operating system for Claude Code and Codex CLI.
+- **Trendi**. Autonomous digital product engine. Identifies trends, generates products, designs carousels, distributes through automated channels.
+- **PACKD**. Registry and toolchain for AI Expert Packs.
+- **Capture**. Chrome extension and web dashboard for one-click knowledge capture across multiple projects.
+- **Cultural Canvas**. AI design platform for culturally authentic content.
+- **ChronoDebug (production)**. The non-showcase source for the LLM debugging tool above.
+- **SaaS Buying Intelligence**. Agent-ready B2B SaaS buying behavior intelligence. 1,640 structured rows from Common Crawl.
 
 ## Frameworks I write about
 
