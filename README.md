@@ -1,141 +1,34 @@
-# Hi, I'm Manu 👋
+# Manu Marri
 
-**Builder | Operator | Problem Solver**
+AI business operations. Solo founder, [Loomiq](https://loomiq.llc). Chicago Booth MBA, ex-Accenture strategy.
 
-I build and ship products that solve real problems. My approach combines technical depth, data-driven decision making, and structured execution frameworks to turn ideas into working solutions.
+I translate AI systems into operational KPIs. I ship multi-agent stacks and the governance frameworks that keep them accountable to the business.
 
-## 🚀 What I Build
+## Pinned work
 
-### [PACKD](https://github.com/manumarri-sudo/packd-showcase) — Expert Knowledge Distribution Platform
-*Registry and toolchain for AI domain expertise*
+**[adjudicator](https://github.com/manumarri-sudo/adjudicator)** — Drop-in judgment layer for AI agents. One decorator, signed verdict receipts, tamper-evident audit trail.
 
-**Impact**: Enable developers to package and share domain expertise like npm packages
-- Built three-layer architecture (MCP + Reasoning + Skills) for composability
-- Designed developer-first CLI for rapid adoption
-- Created validation system and local runtime infrastructure
+**[quill](https://github.com/manumarri-sudo/quill)** — MCP proxy that pauses risky agent actions for human review. Tamper-evident audit log.
 
-**Tech**: Python, Model Context Protocol, DSPy | **Status**: Core platform shipped
+**[mcp-audit](https://github.com/manumarri-sudo/mcp-audit)** — 60-second scanner for hidden instructions in MCP tool descriptions. Detects tag-block Unicode, zero-width injection, bidi override, homoglyphs.
 
----
+**[proposallock](https://github.com/manumarri-sudo/proposallock)** — Payment-gated file delivery for freelancers. Live commercial product, designed and shipped by a multi-agent system documented in `AGENTS.md`.
 
-### [Capture](https://github.com/manumarri-sudo/capture-showcase) — Knowledge Management System
-*Chrome extension + web dashboard for multi-project organization*
+**[market-lens-server](https://github.com/manumarri-sudo/market-lens-server)** — Daily market briefing delivered to a Notion dashboard. Three refreshes a day during US market hours, archived in Supabase.
 
-**Impact**: Reduce information retrieval time from hours to seconds
-- Designed one-click capture workflow across all web platforms
-- Built intelligent auto-categorization using URL pattern recognition
-- Implemented full-text search with PostgreSQL
-- **Key Metric**: 95% extension completion, 85% dashboard shipped
+**[chronodebug-showcase](https://github.com/manumarri-sudo/chronodebug-showcase)** — Capture production LLM requests, replay them deterministically with the same seed and parameters.
 
-**Tech**: TypeScript, Next.js, Chrome APIs, Supabase | **Status**: Beta
+## Other public work
 
----
+- [agentOS-sim](https://github.com/manumarri-sudo/agentOS-sim) — Multi-agent simulation: 19 AI agents try to earn one real dollar in two weeks. Companion to the Substack article: [I Gave 18 AI Agents Two Weeks to Earn One Real Dollar](https://manumarri.substack.com/p/i-gave-18-ai-agents-two-weeks-to).
+- [The Adjudication Gap](https://manumarri.substack.com/p/the-adjudication-gap) — Why most AI agent stacks have telemetry and identity but not the third layer: in-the-moment judgment.
 
-### [Cultural Canvas](https://github.com/manumarri-sudo/cultural-canvas-showcase) — AI Content Platform
-*Culturally authentic design generation at scale*
+## Frameworks I write about
 
-**Impact**: 10x faster design creation vs. manual methods
-- Integrated AI generation with market intelligence (Google Trends, Instagram, Pinterest)
-- Built human-in-the-loop approval workflow for quality control
-- Automated marketplace listing creation and mockup generation
-- **Key Metrics**: <3min for 5 designs, >40% approval rate target, 90% cost reduction
+Trust Infrastructure, Agent Receipts, Trust Ladder, Permission Decay, Governance Half-Life. Published on [manumarri.substack.com](https://manumarri.substack.com).
 
-**Tech**: Python/Flask, FLUX AI, Etsy API | **Status**: Production
+## Contact
 
----
-
-### [ChronoDebug](https://github.com/manumarri-sudo/chronodebug-showcase) — LLM Debugging Tool
-*Developer tool for reproducing production AI issues*
-
-**Impact**: Reduce bug reproduction time from hours to <2 minutes
-- Designed privacy-first architecture (local replay, no third-party data)
-- Built deterministic replay system using OpenAI seed parameters
-- Created SDK with zero-latency impact on production requests
-- **Key Metrics**: <1ms overhead, 95%+ replay accuracy
-
-**Tech**: Python, FastAPI, PostgreSQL, Next.js | **Status**: Core shipped
-
----
-
-## 💡 How I Approach Problems
-
-### 1. **Problem Definition**
-- Start with user research and pain point validation
-- Quantify the problem (time wasted, cost, frequency)
-- Define success metrics before building
-
-### 2. **Solution Design**
-- Evaluate multiple approaches with trade-off analysis
-- Design for composability and future extensibility
-- Prioritize based on impact vs. effort
-
-### 3. **Structured Execution**
-- Break complex projects into phased rollouts
-- Ship iteratively with user feedback loops
-- Track metrics to validate assumptions
-
-### 4. **Data-Driven Decisions**
-- Define KPIs upfront (engagement, performance, business)
-- Use A/B testing and experimentation where applicable
-- Let data guide feature prioritization
-
-## 🛠 Technical Capabilities
-
-**Languages**: Python, TypeScript/JavaScript, SQL
-**Frontend**: React, Next.js, Tailwind CSS, Chrome Extensions
-**Backend**: FastAPI, Flask, Node.js, PostgreSQL
-**AI/ML**: OpenAI/Anthropic APIs, Model Context Protocol, DSPy, FLUX
-**Infrastructure**: Vercel, Supabase, Docker, Git
-**Data**: PostgreSQL, Full-text search, Analytics
-
-## 📊 Frameworks I Use
-
-**Product Thinking:**
-- Jobs-to-be-Done (JTBD) for problem discovery
-- North Star metrics for focus
-- ICE scoring (Impact × Confidence ÷ Effort) for prioritization
-
-**Execution:**
-- Phased rollouts with clear success criteria
-- Retrospectives for continuous improvement
-- Documentation-driven development
-
-**Analytics:**
-- Funnel analysis for conversion optimization
-- Cohort analysis for retention
-- Performance monitoring (latency, error rates)
-
-## 📈 What I Track
-
-**User Engagement**: DAU/MAU, retention curves, feature adoption rates
-**Technical Performance**: API latency, error rates, system uptime
-**Business Impact**: Conversion rates, user growth, cost efficiency
-**Quality**: User satisfaction, support volume, bug resolution time
-
-## 🎯 My Principles
-
-1. **Ship Fast, Learn Faster** — Iterate with real user feedback
-2. **Data Over Opinions** — Measure everything, let metrics guide decisions
-3. **Think in Systems** — Build for composability and long-term scalability
-4. **User Empathy First** — Solve real problems, not imagined ones
-5. **Transparent Communication** — Clear documentation, honest trade-offs
-
-## 🔍 Recent Achievements
-
-- Built and shipped **4 production-grade products** across different domains
-- Designed **privacy-first architectures** for sensitive data handling
-- Created **developer tools** with <1ms overhead and 95%+ reliability
-- Implemented **AI integrations** with market intelligence systems
-- Shipped **Chrome extension** with universal capture functionality
-
-## 📫 Let's Connect
-
-**GitHub**: [@manumarri-sudo](https://github.com/manumarri-sudo)
-**LinkedIn**: [linkedin.com/in/manaswi-marri](https://www.linkedin.com/in/manaswi-marri/)
-**Email**: manu.marri@gmail.com
-
----
-
-*I believe the best way to predict the future is to build it. These projects represent my commitment to shipping real solutions, measuring impact, and iterating based on data.*
-
-**Note**: Project repositories contain product documentation and technical overviews. Source code for proprietary projects is confidential.
+- LinkedIn: [linkedin.com/in/manaswi-marri](https://www.linkedin.com/in/manaswi-marri/)
+- Email: manu.marri@gmail.com
+- Loomiq: [loomiq.llc](https://loomiq.llc)
